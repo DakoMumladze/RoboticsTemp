@@ -1,5 +1,4 @@
-# RoboticsTemp
-Robotics website from template 
+# RoboticsTemplate
 
 
 https://roboticstemplate.netlify.com/
